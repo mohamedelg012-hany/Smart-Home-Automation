@@ -6,7 +6,7 @@
  *
  * Description: types for AVR
  *
- * Author: Mohamed Tarek
+ * Author: Mohamed elgendy
  *
  *******************************************************************************/
 
@@ -41,3 +41,4 @@ typedef float                 float32;
 typedef double                float64;
 
 #endif /* STD_TYPE_H_ */
+
