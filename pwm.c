@@ -2,7 +2,7 @@
  * pwm.c
  *
  *  Created on: May 17, 2025
- *      Author: mobilap
+ *      Author: MOHAMED ELGENDY
  */
 
 
@@ -25,3 +25,4 @@ void PWM_Timer0_Start(uint8 duty_cycle)
     /* Configure PB3/OC0 as output */
 
 }
+
