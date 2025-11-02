@@ -6,7 +6,7 @@
  *
  * Description: Source file for the LCD driver
  *
- * Author: Mohamed Tarek
+ * Author: Mohamed elgendy
  *
  *******************************************************************************/
 
@@ -218,3 +218,4 @@ void LCD_clearScreen(void)
 {
 	LCD_sendCommand(LCD_CLEAR_COMMAND); /* Send clear display command */
 }
+
