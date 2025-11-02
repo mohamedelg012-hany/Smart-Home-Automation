@@ -2,7 +2,7 @@
  * led.h
  *
  *  Created on: May 16, 2025
- *      Author: mobilap
+ *      Author: MOHAMED ELGENDY
  */
 
 #ifndef LED_H_
@@ -56,3 +56,4 @@ void LED_off(LED_ID id);
 
 
 #endif /* LED_H_ */
+
