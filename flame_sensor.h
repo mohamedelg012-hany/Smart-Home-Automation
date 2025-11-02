@@ -2,7 +2,7 @@
  * flame_sensor.h
  *
  *  Created on: May 16, 2025
- *      Author: mobilap
+ *      Author: MOHAMED ELGENDY
  */
 
 #ifndef FLAME_SENSOR_H_
@@ -20,3 +20,4 @@ uint8 FlameSensor_getValue(void);
 
 
 #endif /* FLAME_SENSOR_H_ */
+
