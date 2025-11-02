@@ -2,7 +2,7 @@
  * pwm.h
  *
  *  Created on: May 17, 2025
- *      Author: mobilap
+ *      Author: MOHAMED ELGENDY
  */
 
 #ifndef PWM_H_
@@ -16,3 +16,4 @@ void PWM_Timer0_Start(uint8 duty_cycle);
 
 
 #endif /* PWM_H_ */
+
