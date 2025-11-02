@@ -2,7 +2,7 @@
  * flame_sensor.c
  *
  *  Created on: May 16, 2025
- *      Author: mobilap
+ *      Author: MOHAMED ELGENDY
  */
 
 
@@ -22,4 +22,5 @@ uint8 FlameSensor_getValue(void)
 
     return GPIO_readPin(FLAME_SENSOR_PORT_ID, FLAME_SENSOR_PIN_ID);
 }
+
 
