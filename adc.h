@@ -6,7 +6,7 @@
  *
  * Description: header file for the ATmega16 ADC driver
  *
- * Author: Mohamed Tarek
+ * Author: Mohamed Elgendy
  *
  *******************************************************************************/
 
@@ -39,3 +39,4 @@ void ADC_init(void);
 uint16 ADC_readChannel(uint8 channel_num);
 
 #endif /* ADC_H_ */
+
