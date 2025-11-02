@@ -2,7 +2,7 @@
  * led.c
  *
  *  Created on: May 16, 2025
- *      Author: mobilap
+ *      Author: MOHAMED ELGENDY
  */
 
 #include "led.h"
@@ -106,4 +106,5 @@ void LED_off(LED_ID id){
 		break;
 	}
 }
+
 
