@@ -2,7 +2,7 @@
  * buzzer.h
  *
  *  Created on: May 16, 2025
- *      Author: mobilap
+ *      Author: MOHAMED ELGENDY
  */
 
 #ifndef BUZZER_H_
@@ -24,3 +24,4 @@ void Buzzer_off(void);
 
 
 #endif /* BUZZER_H_ */
+
