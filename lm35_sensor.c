@@ -6,7 +6,7 @@
  *
  * Description: source file for the LM35 Temperature Sensor driver
  *
- * Author: Mohamed Tarek
+ * Author: Mohamed elgendy
  *
  *******************************************************************************/
 
@@ -31,4 +31,5 @@ uint8 LM35_getTemperature(void)
 
 	return temp_value;
 }
+
 
