@@ -6,7 +6,7 @@
  *
  * Description: Commonly used Macros
  *
- * Author: Mohamed Tarek
+ * Author: Mohamed elgendy
  *
  *******************************************************************************/
 
@@ -37,3 +37,4 @@
 #define GET_BIT(REG,BIT) ( ( REG & (1<<BIT) ) >> BIT )
 
 #endif
+
