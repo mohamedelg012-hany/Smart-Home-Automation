@@ -2,7 +2,7 @@
  * buzzer.c
  *
  *  Created on: May 16, 2025
- *      Author: mobilap
+ *      Author: MOHAMED ELGENDY
  */
 
 #include "buzzer.h"
@@ -30,3 +30,4 @@ void Buzzer_off(void)
 
     GPIO_writePin(BUZZER_PORT_ID, BUZZER_PIN_ID, LOGIC_LOW);
 }
+
