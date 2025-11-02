@@ -2,7 +2,7 @@
  * motor.c
  *
  *  Created on: May 17, 2025
- *      Author: mobilap
+ *      Author: MOHAMED ELGENDY
  */
 
 
@@ -42,4 +42,5 @@ void DcMotor_Rotate(DcMotor_State state, uint8 speed){
 
 	PWM_Timer0_Start(speed);
 }
+
 
