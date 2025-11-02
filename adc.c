@@ -6,7 +6,7 @@
  *
  * Description: Source file for the ATmega16 ADC driver
  *
- * Author: Mohamed Tarek
+ * Author: Mohamed elgendy
  *
  *******************************************************************************/
 
@@ -48,3 +48,4 @@ uint16 ADC_readChannel(uint8 channel_num)
 	SET_BIT(ADCSRA,ADIF); /* Clear ADIF by write '1' to it :) */
 	return ADC; /* Read the digital value from the data register */
 }
+
