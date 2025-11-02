@@ -2,7 +2,7 @@
  * ldr.h
  *
  *  Created on: May 17, 2025
- *      Author: mobilap
+ *      Author: MOHAMED ELGENDY
  */
 
 #ifndef LDR_H_
@@ -25,3 +25,4 @@ uint16 LDR_getLightIntensity(void);
 
 
 #endif /* LDR_H_ */
+
