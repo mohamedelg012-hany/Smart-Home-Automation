@@ -6,7 +6,7 @@
  *
  * Description: Header file for the LCD driver
  *
- * Author: Mohamed Tarek
+ * Author: Mohamed elgendy
  *
  *******************************************************************************/
 
@@ -112,3 +112,4 @@ void LCD_intgerToString(int data);
 void LCD_clearScreen(void);
 
 #endif /* LCD_H_ */
+
