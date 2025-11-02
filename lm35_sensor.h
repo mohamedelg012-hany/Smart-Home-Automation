@@ -6,7 +6,7 @@
  *
  * Description: header file for the LM35 Temperature Sensor driver
  *
- * Author: Mohamed Tarek
+ * Author: Mohamed elgendy
  *
  *******************************************************************************/
 
@@ -34,3 +34,4 @@
 uint8 LM35_getTemperature(void);
 
 #endif /* LM35_SENSOR_H_ */
+
