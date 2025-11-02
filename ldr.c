@@ -2,7 +2,7 @@
  * ldr.c
  *
  *  Created on: May 17, 2025
- *      Author: mobilap
+ *      Author: MOHAMED ELGENDY
  */
 
 
@@ -29,3 +29,4 @@ uint16 LDR_getLightIntensity(void) {
 
     return lightIntensity;
 }
+
