@@ -2,7 +2,7 @@
  * motor.h
  *
  *  Created on: May 17, 2025
- *      Author: mobilap
+ *      Author: MOHAMED ELGENDY
  */
 
 #ifndef MOTOR_H_
@@ -27,3 +27,4 @@ void DCMotor_Rotate(DcMotor_State state, uint8 speed);
 
 
 #endif /* MOTOR_H_ */
+
